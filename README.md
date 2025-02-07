@@ -20,7 +20,7 @@ A estrutura do projeto é composta pelos seguintes diretórios e arquivos princi
  - package.json: Contém as dependências e scripts do projeto.
  - tailwind.config.js: Configuração do Tailwind CSS.
  - vite.config.js: Configuração do Vite.
- - 
+   
 -- Como Executar o Projeto --
 
  - Instalação das Dependências: Execute npm install para instalar todas as dependências necessárias.
